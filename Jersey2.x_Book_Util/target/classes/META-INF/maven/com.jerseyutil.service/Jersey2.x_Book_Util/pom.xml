@@ -5,22 +5,17 @@
   <groupId>com.jerseyutil.service</groupId>
   <artifactId>Jersey2.x_Book_Util</artifactId>
            <version>1.0</version>
-  
   <packaging>jar</packaging>
-
   <name>Jersey2.x_Book_Util</name>
   <url>http://maven.apache.org</url>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
   <dependencies>
-   
-    
     <dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
+			<version>2.18.10</version>
 			<version>2.18.11</version>
 		</dependency>
   </dependencies>
